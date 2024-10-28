@@ -1,0 +1,19 @@
+
+*
+body{
+       background-color: black;
+}
+form
+{
+        border: 2px solid rgb(140 140 140);
+        font:
+          16px "Open Sans",
+          Helvetica,
+          Arial,
+          sans-serif;
+      }
+      
+      thead > tr,
+      tfoot > tr {
+        background-color: rgb(15, 15, 15); 
+}
